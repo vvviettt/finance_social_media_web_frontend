@@ -9,10 +9,9 @@
   "devDependencies": {
     "eslint": "^8.48.0",
     "prettier": "^3.0.3",
-    "tsconfig": "*",
     "turbo": "latest"
   },
-  "name": "v1_ui_finace",
+  "name": "v1_ui_finance",
   "packageManager": "yarn@1.22.19",
   "workspaces": [
     "apps/*",
