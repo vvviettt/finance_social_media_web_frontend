@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 export default function Page(): JSX.Element {
   return (
     <main>
-      <Link href={'/rooms'}>go to room</Link>
+      <Link href={'/rooms'}>GO TO</Link>
     </main>
   );
 }
